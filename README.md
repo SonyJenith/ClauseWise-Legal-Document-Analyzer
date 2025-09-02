@@ -7,6 +7,7 @@ ClauseWise is an AI-powered legal document analyzer designed to simplify, decode
 - **Clause Simplification**: Automatically rewrites complex legal clauses into simplified, layman-friendly language.
 - **Named Entity Recognition (NER)**: Identifies and extracts key legal entities such as parties, dates, obligations, monetary values, and legal terms.
 - **Clause Extraction and Breakdown**: Detects and segments individual clauses from lengthy legal documents.
+- **Translation**: A Extracted text can be translated into desire languages.
 - **Document Type Classification**: Classifies uploaded legal documents into categories like NDA, lease, employment contract, or service agreement.
 - **Multi-Format Document Support**: Upload and process legal documents in PDF, DOCX, or TXT formats.
 - **User-Friendly Interface**: Interactive frontend using Streamlit.
