@@ -1,3 +1,4 @@
+## DEMONSTRATION VIDEO LINK: [CLICK HERE](https://drive.google.com/file/d/1mPwXV1DUMCTXXYL0XZNFsCCD2v6cS9RM/view?usp=drive_link)
 # ClauseWise
 
 ClauseWise is an AI-powered legal document analyzer designed to simplify, decode, and classify complex legal texts for lawyers, businesses, and laypersons alike.
@@ -31,3 +32,4 @@ ClauseWise is an AI-powered legal document analyzer designed to simplify, decode
 - Some features may require API keys or authentication for IBM Watson, HuggingFace, or Granite.
 - Replace any placeholder keys in the code with your actual credentials.
 - Granite model loading is available in `clausewise_app/utils/granite_model.py`.
+
