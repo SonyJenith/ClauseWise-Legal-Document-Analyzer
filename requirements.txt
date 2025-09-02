@@ -1,0 +1,13 @@
+streamlit
+pandas
+python-docx
+pdfplumber
+transformers
+huggingface_hub
+pytesseract
+Pillow
+# Translation models (install via transformers):
+# Helsinki-NLP/opus-mt-hi-en, Helsinki-NLP/opus-mt-ta-en, etc.
+# Optional: Uncomment if using IBM Watson or Granite
+# ibm-watson
+# granite-ai
