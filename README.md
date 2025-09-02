@@ -33,3 +33,10 @@ ClauseWise is an AI-powered legal document analyzer designed to simplify, decode
 - Replace any placeholder keys in the code with your actual credentials.
 - Granite model loading is available in `clausewise_app/utils/granite_model.py`.
 
+ ### CONTRIBUTORS
+
+ Sony Jenith D (Team Lead)
+
+ Mowriya
+
+ Krishna
